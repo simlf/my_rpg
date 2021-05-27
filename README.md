@@ -2,7 +2,7 @@
 
 ## A Role Play game coded in C with the CSML library
 
-![MY_RPG](my_rpg.png)
+![MY_RPG](my_rpg_menu.png)
 
 ## Usage
 
