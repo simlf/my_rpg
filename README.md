@@ -10,7 +10,10 @@
 make
 ./my_rpg
 ```
-With this project I learned graphical programming, and how to use CFSML and collaborating with 3 teammates (Mathis Lesur, Louis Maestre and Victor Harri-Chal).
+With this project I learned graphical programming, and how to use CFSML and collaborating with 3 teammates:
+- [Mathis Lesur](https://github.com/tistech0 "tistech0"),
+- [Louis Maestre](https://github.com/Louismaestre "Louismaestre"),
+- [Victor Harri-Chal](https://github.com/VictorHarri-Chal "VictorHarri-Chal").
 
 ## Features
 
